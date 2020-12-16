@@ -1,7 +1,8 @@
 # IntelligentMobileRobotNav
 Navigation through map of Aria Robot using SFML library
 
-The source code has been adapted from the De Montford University (https://www.dmu.ac.uk/home.aspx) School of Computer Science and Informatics Department
+The source code has been adapted from the De Montford University (https://www.dmu.ac.uk/home.aspx) School of Computer Science and Informatics Department.
+
 The following libraries need to be installed and added to the project file: 
 -Aria Version 2.9.1
 -SFML 2.5.1
